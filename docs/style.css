@@ -1,0 +1,16 @@
+body {
+   background-color: lightgrey;
+}
+h2 {
+   color: aqua;
+}
+
+.red {
+   color: red;
+}
+.thick {
+   font-size:20px;
+}
+.green {
+   color:green;
+}
